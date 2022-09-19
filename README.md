@@ -21,7 +21,7 @@
 
 # Deploy
 
-- GitHub: https://mattyouknowwho.github.io/ProPortfolio/
+- GitHub: https://mattyouknowwho.github.io/ProPortfolio-Deploy/
 
 
 # Questions? 
