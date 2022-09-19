@@ -21,8 +21,8 @@
 
 # Deploy
 
-- GitHub: https://mattyouknowwho.github.io/ProPortfolio/
-
+- GitHub: https://mattyouknowwho.github.io/ProPortfolio-Deploy/
+- Github: this is the repo in which that above deploy link has come from: https://github.com/MattYouKnowWho/ProPortfolio-Deploy
 
 # Questions? 
 - Feel free to contact me at matt.cdunston21@gmail.com
